@@ -18,7 +18,7 @@ your account, visit |CyVerse user portal|.
 Launch a lesson on CyVerse
 ------------------------------
 
-This lesson will be launched from the |CyVerse_DE|.
+This lesson will be launched from the `CyVerse Discovery Environment <https://de.cyverse.org/de/>`_.
 
 **For the RNA-Seq Leptin Lesson**
 
