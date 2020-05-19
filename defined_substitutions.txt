@@ -16,6 +16,10 @@
 
   <a href="https://user.cyverse.org/" target="blank">CyVerse user portal</a>
 
+.. |CyVerse_DE| raw:: html
+
+  <a href="https://de.cyverse.org/">CyVerse Discovery Environment</a>
+
 .. |CyVerse Discovery Environment| raw:: html
 
   <a href="https://de.cyverse.org/" target="blank">CyVerse Discovery Environment</a>
